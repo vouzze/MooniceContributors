@@ -1,0 +1,2 @@
+# MooniceContributors
+For contributors generation
